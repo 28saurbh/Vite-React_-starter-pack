@@ -13,10 +13,10 @@ Currently, two official plugins are available:
 
 **Link:** [React-Hot-Toast Documentation](https://react-hot-toast.com/docs/toast)
 
-toast.success('Successfully created!');
-toast.error('Successfully created!');
-toast.custom(<div>Hello World</div>);
-toast.loading('Waiting...');
+- toast.success('Successfully created!')
+- toast.error('Successfully created!')
+- toast.custom(<div>Hello World</div>)
+- toast.loading('Waiting...')
 
 {
     // This is used for loading with toast
