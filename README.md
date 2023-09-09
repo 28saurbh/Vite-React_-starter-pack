@@ -15,14 +15,14 @@ Currently, two official plugins are available:
 
 toast.success('Successfully created!')  
 toast.error('Successfully created!')  
-toast.custom(<div>Hello World</div>)  
+toast.custom("<div>Hello World</div>")  
 toast.loading('Waiting...')  
 
-{
+{  
     ### This is used for loading with toast  
      const toastId = toast.loading('Loading...');  
      toast.dismiss(toastId);  
-}
+}  
 
 # React Icons
 
